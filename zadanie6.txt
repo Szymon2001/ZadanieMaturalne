@@ -1,0 +1,3 @@
+a) Liczb parzystych: 497
+b) najwieksza liczba w pliku: binarnie: 1111101111110110 dziesietnie: 64502
+c) Ilosc liczb, ktora ma 9 cyfr: 101 Ich suma binarnie: 1001100111110111

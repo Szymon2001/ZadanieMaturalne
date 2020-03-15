@@ -112,7 +112,6 @@ int main()
     najwieksza_liczba(plik,plik2);
     ile_liczb_ma9cyfr(plik,plik2);
 
-    plik.close();
     return 0;
 }
 
